@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "304877824800",
+    "firebase_url": "https://sciencequiz-3b7a7.firebaseio.com",
+    "project_id": "sciencequiz-3b7a7",
+    "storage_bucket": "sciencequiz-3b7a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304877824800:android:8a5043ef603ba87a",
+        "android_client_info": {
+          "package_name": "com.shashwatsupreme.sciencequiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304877824800-69koe3nipn4sms7ufc6uuvrbagssqh0l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shashwatsupreme.sciencequiz",
+            "certificate_hash": "b0f4b106cb79418a326e231b5e0f658e9640875a"
+          }
+        },
+        {
+          "client_id": "304877824800-onfrrb4jolggjqckkbhf0eg3abt0fugl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvlzT_7SCfJxLAZDGDLoLLl7pihiC6Tl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304877824800-onfrrb4jolggjqckkbhf0eg3abt0fugl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_view_answer"
+        android:title="View answer"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_do_quiz_again"
+        android:title="Do this quiz again"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_high_score"
+        android:title="My high score for this category and class"
+        />
+    <item
+        android:id="@+id/btn_sign_out"
+        android:title="Sign out"
+        app:showAsAction="never"
+        />
+</menu>

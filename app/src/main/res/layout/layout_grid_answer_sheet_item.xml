@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:padding="1dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <View
+        android:id="@+id/question_item"
+        android:background="@drawable/grid_question_no_answer"
+        android:layout_width="10dp"
+        android:layout_height="10dp" />
+
+
+</RelativeLayout>

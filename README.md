@@ -32,10 +32,4 @@ Please read the pdf file titled <strong><em>'Project Report-CST Science Quiz And
 
 ![](images/2.jpg)
 
-![](images/3.jpg)
-
-![](images/4.jpg)
-
-![](images/6.jpg)
-
 ![](images/7.jpg)

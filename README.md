@@ -1,15 +1,6 @@
 # ScienceQuiz-Android-App
 Please read the pdf file titled <strong><em>'Project Report-CST Science Quiz Android app'</em></strong> to gain understanding of this project repository.
 
-![](images/2.jpg)
-
-![](images/3.jpg)
-
-![](images/4.jpg)
-
-![](images/6.jpg)
-
-![](images/7.jpg)
 
 ![](images/8.jpg)
 
@@ -39,5 +30,12 @@ Please read the pdf file titled <strong><em>'Project Report-CST Science Quiz And
 
 ![](images/21.jpg)
 
-![](images/22.jpg)
+![](images/2.jpg)
 
+![](images/3.jpg)
+
+![](images/4.jpg)
+
+![](images/6.jpg)
+
+![](images/7.jpg)

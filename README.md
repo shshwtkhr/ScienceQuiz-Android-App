@@ -1,5 +1,5 @@
 # ScienceQuiz-Android-App
-Please read the pdf file titled <strong><em>'Project Report-CST Science Quiz Android app'<em><strong> to gain understanding of this project repository.
+Please read the pdf file titled <strong><em>'Project Report-CST Science Quiz Android app'</em></strong> to gain understanding of this project repository.
 
 ![](images/2.jpg)
 
